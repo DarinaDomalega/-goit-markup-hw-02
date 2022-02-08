@@ -128,10 +128,6 @@ body {
   cursor: pointer;
 }
 
-.modal-button:hover {
-  color: #188ce8;
-}
-
 /* description section */
 .description-second-title {
   font-weight: 700;
